@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+gobnb = "^0.0.8"
 
 
 [build-system]
